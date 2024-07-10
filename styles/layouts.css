@@ -1,0 +1,46 @@
+/* タイトルスライド */
+.slide_title_layout {
+  @apply bg-background;
+
+  font-family: "Source Code Pro";
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+
+  /* TODO: コンポーネント化してここはレイアウトだけにする */
+  h1 {
+    font-size: var(--font-size-sectionTitle);
+    color: var(--color-font);
+    line-height: 1.2em;
+  }
+
+  p {
+    background-color: var(--color-main);
+    font-size: var(--font-size-large);
+    width: 100%;
+    padding-block: 20px;
+  }
+}
+
+.section_title_layout {
+  @apply bg-background;
+
+  font-family: "Source Code Pro";
+  text-align: center;
+  display: grid;
+  place-items: center;
+  height: 100%;
+
+  /* TODO: コンポーネント化してここはレイアウトだけにする */
+  h1 {
+    @apply text-font text-slideTitle bg-subBackground;
+
+    line-height: 1.2em;
+    width: 100%;
+    padding-block: 40px;
+    border-block: 5px solid var(--color-main);
+  }
+}

@@ -1,0 +1,13 @@
+* {
+  user-select: auto !important;
+  -webkit-user-select: auto !important;
+  -webkit-user-drag: auto !important;
+}
+
+a {
+  text-decoration: underline;
+}
+
+code {
+  background-color: #1b1b1b !important;
+}
