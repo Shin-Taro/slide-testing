@@ -6,9 +6,10 @@ export default defineConfig({
   },
   theme: {
     colors: {
-      background: "#272727",
+      background: "#e6e2cf",
       subBackground: "#3c3c3c",
-      font: "#ffffff",
+      font: "#272727",
+      subFont: "#e6e2cf",
       myPrimary: "#148570",
       accent: "#890303",
     },

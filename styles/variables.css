@@ -1,7 +1,8 @@
 :root {
-  --color-background: #272727;
+  --color-background: #e6e2cf;
   --color-subBackground: #3c3c3c;
-  --color-font: #ffffff;
+  --color-font: #272727;
+  --color-subFont: #e6e2cf;
   --color-myPrimary: #148570;
   --color-accent: #890303;
 

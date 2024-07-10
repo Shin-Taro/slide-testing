@@ -18,6 +18,7 @@
   }
 
   p {
+    color: var(--color-subFont);
     background-color: var(--color-myPrimary);
     font-size: var(--font-size-large);
     width: 100%;
