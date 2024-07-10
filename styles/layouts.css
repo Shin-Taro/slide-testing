@@ -18,7 +18,7 @@
   }
 
   p {
-    background-color: var(--color-main);
+    background-color: var(--color-myPrimary);
     font-size: var(--font-size-large);
     width: 100%;
     padding-block: 20px;
@@ -41,6 +41,6 @@
     line-height: 1.2em;
     width: 100%;
     padding-block: 40px;
-    border-block: 5px solid var(--color-main);
+    border-block: 5px solid var(--color-myPrimary);
   }
 }
