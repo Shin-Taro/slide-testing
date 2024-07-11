@@ -165,3 +165,11 @@ src: ./pages/points_05.md
 ---
 src: ./pages/points_06.md
 ---
+
+---
+src: ./pages/inter_section_04.md
+---
+
+---
+src: ./pages/conclusion.md
+---
