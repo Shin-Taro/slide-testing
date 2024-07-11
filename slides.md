@@ -101,3 +101,19 @@ src: ./pages/knowledge_test_types_06.md
 ---
 src: ./pages/knowledge_test_types_07.md
 ---
+
+---
+src: ./pages/confidence_growth_curve_01.md
+---
+
+---
+src: ./pages/confidence_growth_curve_02.md
+---
+
+---
+src: ./pages/confidence_growth_curve_03.md
+---
+
+---
+src: ./pages/confidence_growth_curve_04.md
+---
