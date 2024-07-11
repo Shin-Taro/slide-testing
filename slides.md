@@ -65,3 +65,39 @@ src: ./pages/testing_04.md
 ---
 src: ./pages/inter_section_02.md
 ---
+
+---
+src: ./pages/knowledge_01.md
+---
+
+---
+src: ./pages/knowledge_02.md
+---
+
+---
+src: ./pages/knowledge_test_types_01.md
+---
+
+---
+src: ./pages/knowledge_test_types_02.md
+---
+
+---
+src: ./pages/knowledge_test_types_03.md
+---
+
+---
+src: ./pages/knowledge_test_types_04.md
+---
+
+---
+src: ./pages/knowledge_test_types_05.md
+---
+
+---
+src: ./pages/knowledge_test_types_06.md
+---
+
+---
+src: ./pages/knowledge_test_types_07.md
+---
