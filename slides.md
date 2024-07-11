@@ -117,3 +117,23 @@ src: ./pages/confidence_growth_curve_03.md
 ---
 src: ./pages/confidence_growth_curve_04.md
 ---
+
+---
+src: ./pages/shift_left_01.md
+---
+
+---
+src: ./pages/shift_left_02.md
+---
+
+---
+src: ./pages/shift_left_03.md
+---
+
+---
+src: ./pages/shift_left_04.md
+---
+
+---
+src: ./pages/shift_left_05.md
+---
