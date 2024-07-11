@@ -137,3 +137,31 @@ src: ./pages/shift_left_04.md
 ---
 src: ./pages/shift_left_05.md
 ---
+
+---
+src: ./pages/inter_section_03.md
+---
+
+---
+src: ./pages/points_01.md
+---
+
+---
+src: ./pages/points_02.md
+---
+
+---
+src: ./pages/points_03.md
+---
+
+---
+src: ./pages/points_04.md
+---
+
+---
+src: ./pages/points_05.md
+---
+
+---
+src: ./pages/points_06.md
+---
