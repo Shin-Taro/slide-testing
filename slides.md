@@ -41,3 +41,19 @@ src: ./pages/quality_07.md
 ---
 src: ./pages/quality_08.md
 ---
+
+---
+src: ./pages/inter_section_01.md
+---
+
+---
+src: ./pages/testing_01.md
+---
+
+---
+src: ./pages/testing_02.md
+---
+
+---
+src: ./pages/testing_03.md
+---
