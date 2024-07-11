@@ -16,6 +16,9 @@
   th {
     padding: 8px;
   }
+  td {
+    font-size: 18px;
+  }
   td:not(:first-child),
   th:not(:first-child) {
     border-left: 1px solid var(--color-subBackground);

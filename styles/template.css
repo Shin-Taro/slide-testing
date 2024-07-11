@@ -4,4 +4,41 @@
   font-family: "Source Code Pro";
   padding: 30px 40px;
   height: 100%;
+  color: var(--color-font);
+  font-size: var(--font-size-regular);
+
+  li > ul {
+    margin-left: 50px;
+  }
+
+  li:has(ul) {
+    list-style: decimal;
+    list-style-position: inside;
+  }
+
+  li:has(ul):not(:first-child) {
+    border-top: 1px solid var(--color-subBackground);
+  }
+
+  li:has(ul):not(:first-child):not(:last-child) {
+    padding-block: 20px;
+  }
+
+  li:has(ul):first-child {
+    padding-bottom: 20px;
+  }
+
+  li:has(ul):last-child {
+    padding-top: 20px;
+  }
+
+  li:not(:has(ul)) {
+    list-style: square;
+    list-style-position: inside;
+    margin-top: 5px;
+  }
+
+  li:not(:has(ul)):first-child {
+    margin-top: 20px;
+  }
 }

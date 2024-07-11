@@ -37,8 +37,9 @@
 
   /* TODO: コンポーネント化してここはレイアウトだけにする */
   h1 {
-    @apply text-font text-slideTitle bg-subBackground;
+    @apply text-subFont text-slideTitle bg-myPrimary;
 
+    text-shadow: 0px 0px 10px var(--color-subBackground);
     line-height: 1.2em;
     width: 100%;
     padding-block: 40px;
