@@ -5,7 +5,7 @@ fonts:
   sans: Source Code Pro
 ---
 
-\[ Engine vol.71 \]
+\[ 登壇スライド \]
 
 # プロダクトの品質に向き合うための知識と考え方
 
